@@ -129,6 +129,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     transition: all 0.1s;
+    z-index: 2;
 }
 
 .slika1-button:hover {
